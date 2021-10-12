@@ -19,7 +19,7 @@ function isHappy(n) {
 
 ![19 is happy](19-is-happy.png)
 
-**`4`** is happy because:
+**`4`** is inconsolable because:
 
 ![19 is happy](4-is-unhappy.png)
 

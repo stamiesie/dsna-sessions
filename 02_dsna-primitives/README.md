@@ -144,6 +144,7 @@ The default `sort()` in JavaScript provides lexical (dictionary) sorting by defa
 ## Challenge!
 
 `fizz-buzz` - classic code challenge problems with an "order matters" twist
+
 `anagram` - making hard problems easy by using the built-in methods
 
 ## Compare to adjacent array members
@@ -164,6 +165,7 @@ const unique = [...new Set(numbers)];
 ## Challenge!
 
 `unique-string` - classic code challenge problems with an "order matters" twist
+
 `unique-char` - making hard problems easy by using the built-in methods
 
 ## Putting it All Together

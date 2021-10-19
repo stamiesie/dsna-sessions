@@ -6,9 +6,9 @@ Stacks are first-in, last-out data structures. Think of them like a stack of roc
 ## Challenge
 
 Implement `Stack` as an abstract data type (`class` that has an array property) that exposes:
-- `push()`
-- `pop()`
-- `peek()`
+- `push(item)`
+- `pop()` returns item
+- `peek()` returns item
 
 Think back to BigO for arrays when you decide where to put the items in the backing data store array
 

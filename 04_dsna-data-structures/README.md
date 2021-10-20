@@ -7,9 +7,9 @@ person | challenge
 ---|---
 partner 1 | `Stack`
 partner 2 | `Queue`
+pair | `O-1-queue`
 demo | `reverse-array-with-stack`
 pair | `check-syntax`
-pair | `O-1-queue`
 partner 2 | `linked-list`
 partner 1 | `tree-traversal`
 

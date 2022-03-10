@@ -29,3 +29,8 @@ function push(arr, item) {
 Input | Output | Mutations
 ---|---:|---
 `['a', 'b', 'c'], 'd'` | `4` | `['a', 'b', 'c', 'd']`
+
+function push(arr, item) {
+    arr[3] = item;
+    return arr;
+}
